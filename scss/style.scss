@@ -1,0 +1,262 @@
+html, body {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+table {
+	border: 2px;
+	border-collapse: separate;
+	border-spacing: 0px 0px;
+	margin: auto;
+	padding: 0;
+}
+
+.main {
+	width: 100%;
+	margin: auto;
+	background-color: #000000;
+}
+
+.main__header {
+	padding-top: 50px;
+	width: 850px;
+	margin: auto;
+	height: 60px;
+	width: 850px;
+}
+
+.main__head-items {
+	background-color: #f0d128;
+	height: 90px;
+	width: 850px;
+	padding-left: 110px;
+}
+
+.main__head-item_logo {
+	font-size: 20px;
+}
+
+.main__nav-items {
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	right: 20px;
+	padding-left: 10px;
+	margin-left: 20px;
+}
+
+.main__head-items a {
+	text-decoration: none;
+	color: #000000;
+	padding-left: 100px;
+}
+
+.main__navigation {
+	background-color: #292929;
+	height: 60px;
+	width: 850px;
+	padding-right: 80px;
+}
+
+.main__nav-items {
+	width: 850px;
+	padding-left: 130px;
+}
+
+.main__nav-items a {
+	color: #ffffff;
+	text-decoration: none;
+	position: relative;
+	right: 20px;
+	padding-left: 60px;
+	margin-left: 20px;
+}
+
+.main__blackfriday {
+	height: 425px;
+	width: 850px;
+	background-color: #f0d128;
+}
+
+.main__blackfriday-stand {
+	height: 425px;
+	width: 425px;
+}
+
+.main__text-header_black-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+	padding-right: 20px;
+}
+
+.main__big-letter_black-font {
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+}
+
+.main__explanation-header_black-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+}
+
+.main__get_red-font {
+	padding-left: 60px;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: none;
+	color: red;
+}
+
+.main__suncream {
+	height: 425px;
+	width: 850px;
+	background-color: #292929;
+}
+
+.main__tube-img {
+	height: 425px;
+	width: 425px;
+}
+
+.main__text-header_light-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.main__big-letter_light-font {
+	text-align: center;
+	font-size: 70px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+.main__explanation-header_light-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+	color: #ffffff;
+}
+
+.main__get_yellow-font {
+	padding-left: 75px;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: none;
+	color: #f0d128;
+}
+
+.main__cream {
+	height: 425px;
+	width: 850px;
+	background-color: #f0d128;
+}
+
+.main__jar-img {
+	height: 425px;
+	width: 425px;
+}
+
+.main__old-price_black-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: line-through;
+	color: #000000;
+}
+
+.main__cosmetic-bundle {
+	height: 425px;
+	width: 850px;
+	background-color: #292929;
+}
+
+.main__bundle {
+	height: 425px;
+	width: 425px;
+}
+
+.main__cosmetic-img {
+	height: 425px;
+	width: 425px;
+}
+
+.main__old-price_light-font {
+	text-align: center;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: line-through;
+	color: #ffffff;
+}
+
+.main__discount-info {
+	height: 200px;
+	width: 850px;
+	background-color: #f0d128;
+}
+
+.main__more-discounts {
+	position: relative;
+	font-size: 30px;
+	padding-left: 200px;
+	font-weight: bold;
+}
+
+.main__link {
+	font-size: 25px;
+	padding-left: 300px;
+	text-decoration: none;
+	color: #ff0000;
+}
+
+.main__infobox {
+	height: 200px;
+	width: 850px;
+	background-color: #292929;
+}
+
+.main__copyright, .main__adress {
+	padding-left: 20px;
+	color: #ffffff;
+}
+
+.main__unsubscribe {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+td {
+	padding: 0;
+	border-collapse: separate;
+	border-spacing: 0px;
+}
+
+tr {
+	padding: 0;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+.main__buy_yellow-font {
+	padding-left: 170px;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: none;
+	color: #f0d128;
+}
+
+.main__buy_red-font {
+	padding-left: 120px;
+	vertical-align: text-top;
+	font-size: 30px;
+	text-decoration: none;
+	color: #ff0000;
+}
